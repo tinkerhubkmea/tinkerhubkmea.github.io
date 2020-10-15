@@ -1,2 +1,2 @@
 # BEGIT
-> github beginners
+## github beginners
